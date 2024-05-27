@@ -1,6 +1,8 @@
 # Saakuru Gainz Bot
 
-Saakuru Gainz Bot is a script designed to interact with the Saakuru Gainz platform, allowing users to check their profiles and claim tasks automatically.
+Saakuru Gainz Bot is a script designed to interact with the Saakuru Gainz platform, allowing users to check their profiles and claim tasks automatically. 
+- Login to https://gainz.saakuru.com/dashboard and connect your Twitter
+- Use referral code GOOGLE or TWITTER!
 
 ## Installation
 
